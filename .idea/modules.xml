@@ -5,9 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/ThemeApk.iml" filepath="$PROJECT_DIR$/ThemeApk.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/dialer/dialer.iml" filepath="$PROJECT_DIR$/dialer/dialer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/email/email.iml" filepath="$PROJECT_DIR$/email/email.iml" />
       <module fileurl="file://$PROJECT_DIR$/qloudmedia/qloudmedia.iml" filepath="$PROJECT_DIR$/qloudmedia/qloudmedia.iml" />
-      <module fileurl="file://$PROJECT_DIR$/settings/settings.iml" filepath="$PROJECT_DIR$/settings/settings.iml" />
     </modules>
   </component>
 </project>
