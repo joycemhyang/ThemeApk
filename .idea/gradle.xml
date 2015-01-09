@@ -8,10 +8,30 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/BenqHome" />
+            <option value="$PROJECT_DIR$/BenqMemo" />
+            <option value="$PROJECT_DIR$/BenqMoney" />
+            <option value="$PROJECT_DIR$/BenqSora" />
+            <option value="$PROJECT_DIR$/Browser" />
+            <option value="$PROJECT_DIR$/Calculator" />
+            <option value="$PROJECT_DIR$/Calendar" />
+            <option value="$PROJECT_DIR$/Contacts" />
+            <option value="$PROJECT_DIR$/DeskClock" />
+            <option value="$PROJECT_DIR$/Dialer" />
+            <option value="$PROJECT_DIR$/DownloadProviderUi" />
+            <option value="$PROJECT_DIR$/Email" />
+            <option value="$PROJECT_DIR$/FMRadio" />
+            <option value="$PROJECT_DIR$/Mms" />
+            <option value="$PROJECT_DIR$/Music" />
+            <option value="$PROJECT_DIR$/OemCamera2" />
+            <option value="$PROJECT_DIR$/PiQture" />
+            <option value="$PROJECT_DIR$/QissDay" />
+            <option value="$PROJECT_DIR$/QissMusicPro" />
+            <option value="$PROJECT_DIR$/QissPaper" />
+            <option value="$PROJECT_DIR$/QloudMedia" />
+            <option value="$PROJECT_DIR$/Settings" />
+            <option value="$PROJECT_DIR$/VoiceRecorder" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/dialer" />
-            <option value="$PROJECT_DIR$/email" />
-            <option value="$PROJECT_DIR$/qloudmedia" />
           </set>
         </option>
       </GradleProjectSettings>

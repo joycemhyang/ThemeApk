@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-        package="mobi.qiss.theme.female.dialer"
+        package="mobi.qiss.theme.normal.dialer"
         android:versionCode="1"
         android:versionName="1.0">
     <overlay android:targetPackage="com.android.dialer" android:priority="1"/>

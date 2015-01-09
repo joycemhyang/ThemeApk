@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+        package="mobi.qiss.theme.normal.qpicx.pro.benq"
+        android:versionCode="1"
+        android:versionName="1.0">
+    <overlay android:targetPackage="mobi.qiss.qpicx.pro.benq" android:priority="1"/>
+</manifest>
+ 

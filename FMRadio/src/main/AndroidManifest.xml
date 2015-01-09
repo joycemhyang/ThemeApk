@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+        package="mobi.qiss.theme.normal.fmradio"
+        android:versionCode="1"
+        android:versionName="1.0">
+    <overlay android:targetPackage="com.oem.fmradio" android:priority="1"/>
+</manifest>
+ 

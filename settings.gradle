@@ -1,1 +1,1 @@
-include ':app', ':dialer', ':qloudmedia'
+include ':app', ':BenqMemo', ':BenqMoney', ':BenqSora', ':Browser', ':Calculator', ':Calendar', ':Contacts', ':DeskClock', ':DownloadProviderUi', ':Email', ':FMRadio', ':Mms', ':Music', ':OemCamera2', ':PiQture', ':QissDay', ':QissMusicPro', ':BenqHome', ':Dialer', ':QloudMedia', ':QissPaper', ':Settings', ':VoiceRecorder'

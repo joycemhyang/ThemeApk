@@ -2,10 +2,31 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BenqHome/BenqHome.iml" filepath="$PROJECT_DIR$/BenqHome/BenqHome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BenqMemo/BenqMemo.iml" filepath="$PROJECT_DIR$/BenqMemo/BenqMemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BenqMoney/BenqMoney.iml" filepath="$PROJECT_DIR$/BenqMoney/BenqMoney.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BenqSora/BenqSora.iml" filepath="$PROJECT_DIR$/BenqSora/BenqSora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Browser/Browser.iml" filepath="$PROJECT_DIR$/Browser/Browser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calendar/Calendar.iml" filepath="$PROJECT_DIR$/Calendar/Calendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contacts/Contacts.iml" filepath="$PROJECT_DIR$/Contacts/Contacts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeskClock/DeskClock.iml" filepath="$PROJECT_DIR$/DeskClock/DeskClock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dialer/Dialer.iml" filepath="$PROJECT_DIR$/Dialer/Dialer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DownloadProviderUi/DownloadProviderUi.iml" filepath="$PROJECT_DIR$/DownloadProviderUi/DownloadProviderUi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Email/Email.iml" filepath="$PROJECT_DIR$/Email/Email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FMRadio/FMRadio.iml" filepath="$PROJECT_DIR$/FMRadio/FMRadio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mms/Mms.iml" filepath="$PROJECT_DIR$/Mms/Mms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Music/Music.iml" filepath="$PROJECT_DIR$/Music/Music.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OemCamera2/OemCamera2.iml" filepath="$PROJECT_DIR$/OemCamera2/OemCamera2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PiQture/PiQture.iml" filepath="$PROJECT_DIR$/PiQture/PiQture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QissDay/QissDay.iml" filepath="$PROJECT_DIR$/QissDay/QissDay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QissMusicPro/QissMusicPro.iml" filepath="$PROJECT_DIR$/QissMusicPro/QissMusicPro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QissPaper/QissPaper.iml" filepath="$PROJECT_DIR$/QissPaper/QissPaper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QloudMedia/QloudMedia.iml" filepath="$PROJECT_DIR$/QloudMedia/QloudMedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Settings/Settings.iml" filepath="$PROJECT_DIR$/Settings/Settings.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThemeApk.iml" filepath="$PROJECT_DIR$/ThemeApk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VoiceRecorder/VoiceRecorder.iml" filepath="$PROJECT_DIR$/VoiceRecorder/VoiceRecorder.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dialer/dialer.iml" filepath="$PROJECT_DIR$/dialer/dialer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/qloudmedia/qloudmedia.iml" filepath="$PROJECT_DIR$/qloudmedia/qloudmedia.iml" />
     </modules>
   </component>
 </project>
