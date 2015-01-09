@@ -12,6 +12,34 @@ buildscript {
     }
 }
 
+//[+] Joyce, Add for build theme apk.
+def overlaysDir = rootDir.toString() + '/app/src/main/assets/overlays'
+
+configure(subprojects) {
+    def apkDir = project.buildDir.toString() + '/outputs/apk'
+    def apkName = project.name + '.apk'
+    task cleanApp(type:Delete, dependsOn: ':' + project.name + ':clean'){
+    }
+
+    task copyDebugApk(type:Copy, dependsOn: ':' + project.name + ':assembleDebug'){
+        def apkOutputName = project.name + '-debug.apk'
+        from apkDir + '/' + apkOutputName
+        into overlaysDir
+        rename (apkOutputName, apkName)
+    }
+
+}
+
+task cleanOutput(type:Delete, dependsOn: subprojects.cleanApp){
+    delete fileTree(dir: overlaysDir)
+}
+
+task assembleDebug(dependsOn: [cleanOutput, subprojects.findAll {it.name != 'app'}.copyDebugApk]) {
+    finalizedBy ':app:assembleDebug'
+}
+
+//[-] Joyce, Add for build theme apk.
+
 allprojects {
     repositories {
         jcenter()

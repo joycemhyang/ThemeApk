@@ -1,1 +1,1 @@
-include ':app', ':email', ':settings', ':dialer'
+include ':app', ':email', ':settings', ':dialer', ':qloudmedia'
